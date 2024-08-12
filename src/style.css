@@ -22,7 +22,7 @@ header {
 }
 
 .search-form-input {
-  background-color: #e1f6f4;
+  background-color: #e1f6f445;
   border: none;
   border-radius: 6px;
   font-size: 16px;
@@ -73,7 +73,7 @@ main {
 .weather-app-icon {
   max-height: 88px;
   max-width: 88px;
-  margin-top: 22px;
+  margin-top: 5px;
 }
 
 .weather-app-temperature {
