@@ -118,6 +118,10 @@ main {
   padding: 0px 10px;
 }
 
+.weather-forecast-temperature:first-of-type {
+  font-weight: 700;
+}
+
 footer {
   border-top: 1px solid #e1f6f4;
   color: rgba(0, 0, 0, 0.6);
